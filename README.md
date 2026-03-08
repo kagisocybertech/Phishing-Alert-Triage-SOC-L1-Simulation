@@ -1,4 +1,4 @@
-# Phishing-Alert-Triage-SOC-L1-Simulation
+# Phishing Alert Triage - SOC L1 Simulation
 
 **Platform:** TryHackMe SOC Simulator  
 **Role:** SOC L1 Analyst  
